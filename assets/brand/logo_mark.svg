@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="neuraldrift mark">
+  <title>neuraldrift mark</title>
+  <defs>
+    <linearGradient id="markGrad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#42C2D9" stop-opacity="0.0"/>
+      <stop offset="22%" stop-color="#42C2D9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0E5A6F" stop-opacity="1.0"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(7, 12)">
+    <!-- The drift curve -->
+    <path d="M 2 30
+             C 12 30, 18 8, 28 8
+             C 38 8, 44 30, 54 30
+             C 60 30, 62 46, 64 50"
+          fill="none"
+          stroke="url(#markGrad)"
+          stroke-width="6"
+          stroke-linecap="round"/>
+    <!-- Intelligence node -->
+    <circle cx="64" cy="50" r="8.5" fill="#0E5A6F"/>
+    <circle cx="64" cy="50" r="3.2" fill="#42C2D9"/>
+  </g>
+</svg>

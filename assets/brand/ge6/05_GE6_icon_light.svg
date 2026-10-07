@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>GE6° — App Icon Light</title>
+  <desc>Square app icon, white background, GE6° centered.</desc>
+  <rect width="512" height="512" rx="96" fill="#FFFFFF"/>
+  <rect x="6" y="6" width="500" height="500" rx="92" fill="none" stroke="#E2E8F0" stroke-width="0.5"/>
+  <g font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace" font-weight="700" font-size="180" letter-spacing="-4">
+    <text x="256" y="290" text-anchor="middle">
+      <tspan fill="#10B981">GE</tspan><tspan fill="#0F1B2D">6</tspan><tspan fill="#10B981" font-size="90" dy="-60">°</tspan>
+    </text>
+  </g>
+</svg>

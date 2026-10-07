@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
+  <title>GE6° — Primary Wordmark on Light</title>
+  <desc>GE6 degree primary logo, JetBrains Mono Bold style. Green G, navy E6, green degree symbol on white.</desc>
+  <rect width="600" height="200" fill="#FFFFFF"/>
+  <g font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace" font-weight="700" font-size="120" letter-spacing="-3">
+    <text x="300" y="125" text-anchor="middle">
+      <tspan fill="#10B981">GE</tspan><tspan fill="#0F1B2D">6</tspan><tspan fill="#10B981" font-size="60" dy="-40">°</tspan>
+    </text>
+  </g>
+  <text x="300" y="170" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Courier New', monospace" font-weight="500" font-size="11" fill="#475569" letter-spacing="6">HULL TRUTH QUANTIFIED</text>
+</svg>
