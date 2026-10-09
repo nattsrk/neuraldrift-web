@@ -1,0 +1,15 @@
+{
+  "name": "parity",
+  "version": "1.0.0",
+  "main": "parity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright-core": "1.56"
+  }
+}

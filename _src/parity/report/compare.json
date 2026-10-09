@@ -1,0 +1,1750 @@
+[
+ {
+  "route": "/",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6436,
+   6436
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-optimization",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5247,
+   5247
+  ],
+  "pixels_changed_pct": 0.023,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/live-watchkeeper",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5456,
+   5456
+  ],
+  "pixels_changed_pct": 0.029,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-analysis",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6263,
+   6263
+  ],
+  "pixels_changed_pct": 0.032,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/merchant-ships",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4742,
+   4742
+  ],
+  "pixels_changed_pct": 0.166,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/onshore",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4104,
+   4104
+  ],
+  "pixels_changed_pct": 0.006,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/who-uses-ge6",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3655,
+   3655
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/about",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4459,
+   4459
+  ],
+  "pixels_changed_pct": 0.088,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/leadership",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3138,
+   3138
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/testimonials",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3542,
+   3542
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/contact",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3877,
+   3877
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4108,
+   4108
+  ],
+  "pixels_changed_pct": 0.003,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-net-zero-framework",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4931,
+   4931
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/cii-2027-2030",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4458,
+   4458
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/eu-ets-2026",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4480,
+   4480
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/fueleu-compliance-year",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4611,
+   4611
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-dcs-2026",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4230,
+   4230
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/biofouling-border-check",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4468,
+   4468
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/vlsfo-co2-factor",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4491,
+   4491
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/emission-control-areas-2025-2028",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4767,
+   4767
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/solas-voyage-planning",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4411,
+   4411
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/privacy",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3386,
+   3386
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/404",
+  "w": 1440,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   1775,
+   1775
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5394,
+   5394
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-optimization",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4701,
+   4701
+  ],
+  "pixels_changed_pct": 0.007,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/live-watchkeeper",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4898,
+   4898
+  ],
+  "pixels_changed_pct": 0.028,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-analysis",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5303,
+   5303
+  ],
+  "pixels_changed_pct": 0.03,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/merchant-ships",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4705,
+   4705
+  ],
+  "pixels_changed_pct": 0.002,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/onshore",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3822,
+   3822
+  ],
+  "pixels_changed_pct": 0.013,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/who-uses-ge6",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3677,
+   3677
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/about",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4123,
+   4123
+  ],
+  "pixels_changed_pct": 0.056,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/leadership",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3919,
+   3919
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/testimonials",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3251,
+   3251
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/contact",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3723,
+   3723
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4852,
+   4852
+  ],
+  "pixels_changed_pct": 0.002,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-net-zero-framework",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5095,
+   5095
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/cii-2027-2030",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4622,
+   4622
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/eu-ets-2026",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4644,
+   4644
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/fueleu-compliance-year",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4754,
+   4754
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-dcs-2026",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4402,
+   4402
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/biofouling-border-check",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4631,
+   4631
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/vlsfo-co2-factor",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4654,
+   4654
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/emission-control-areas-2025-2028",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4930,
+   4930
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/solas-voyage-planning",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4528,
+   4528
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/privacy",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3190,
+   3190
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/404",
+  "w": 1024,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   1836,
+   1836
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6254,
+   6254
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-optimization",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5098,
+   5098
+  ],
+  "pixels_changed_pct": 0.015,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/live-watchkeeper",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5116,
+   5116
+  ],
+  "pixels_changed_pct": 0.019,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-analysis",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5563,
+   5563
+  ],
+  "pixels_changed_pct": 0.021,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/merchant-ships",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4752,
+   4752
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/onshore",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4155,
+   4155
+  ],
+  "pixels_changed_pct": 0.004,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/who-uses-ge6",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3531,
+   3531
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/about",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4916,
+   4916
+  ],
+  "pixels_changed_pct": 0.022,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/leadership",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3157,
+   3157
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/testimonials",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3623,
+   3623
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/contact",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3904,
+   3904
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4645,
+   4645
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-net-zero-framework",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5096,
+   5096
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/cii-2027-2030",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4551,
+   4551
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/eu-ets-2026",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4599,
+   4599
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/fueleu-compliance-year",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4784,
+   4784
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-dcs-2026",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4393,
+   4393
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/biofouling-border-check",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4561,
+   4561
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/vlsfo-co2-factor",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4640,
+   4640
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/emission-control-areas-2025-2028",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4933,
+   4933
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/solas-voyage-planning",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4486,
+   4486
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/privacy",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3361,
+   3361
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/404",
+  "w": 768,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   1961,
+   1961
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6166,
+   6166
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-optimization",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5503,
+   5503
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/live-watchkeeper",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6220,
+   6220
+  ],
+  "pixels_changed_pct": 0.011,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/ge6/voyage-analysis",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5950,
+   5950
+  ],
+  "pixels_changed_pct": 0.022,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/merchant-ships",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5082,
+   5082
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/onshore",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4763,
+   4763
+  ],
+  "pixels_changed_pct": 0.003,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/serve/who-uses-ge6",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3557,
+   3557
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/about",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5474,
+   5474
+  ],
+  "pixels_changed_pct": 0.029,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/leadership",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3215,
+   3215
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/testimonials",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   3896,
+   3896
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/contact",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4709,
+   4709
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6712,
+   6712
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-net-zero-framework",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   6216,
+   6216
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/cii-2027-2030",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5405,
+   5405
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/eu-ets-2026",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5571,
+   5571
+  ],
+  "pixels_changed_pct": 0.001,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/fueleu-compliance-year",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5614,
+   5614
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/imo-dcs-2026",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5252,
+   5252
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/biofouling-border-check",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5618,
+   5618
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/vlsfo-co2-factor",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5474,
+   5474
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/emission-control-areas-2025-2028",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5807,
+   5807
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/company/insights/solas-voyage-planning",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   5310,
+   5310
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/privacy",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   4156,
+   4156
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ },
+ {
+  "route": "/404",
+  "w": 390,
+  "title": true,
+  "text_page": true,
+  "text_header": true,
+  "text_footer": true,
+  "imgs": true,
+  "films": true,
+  "links": true,
+  "height": [
+   2031,
+   2031
+  ],
+  "pixels_changed_pct": 0.0,
+  "errA": 0,
+  "errB": [],
+  "missingB": []
+ }
+]

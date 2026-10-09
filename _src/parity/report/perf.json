@@ -1,0 +1,58 @@
+[
+ {
+  "page": "/",
+  "version": "A",
+  "loadMs": 30199,
+  "lcpMs": 548,
+  "kb": 32733
+ },
+ {
+  "page": "/",
+  "version": "B",
+  "loadMs": 1311,
+  "lcpMs": 632,
+  "kb": 1833
+ },
+ {
+  "page": "/ge6/voyage-optimization",
+  "version": "A",
+  "loadMs": 30249,
+  "lcpMs": 388,
+  "kb": 32733
+ },
+ {
+  "page": "/ge6/voyage-optimization",
+  "version": "B",
+  "loadMs": 2120,
+  "lcpMs": 608,
+  "kb": 1829
+ },
+ {
+  "page": "/company/insights/eu-ets-2026",
+  "version": "A",
+  "loadMs": 30071,
+  "lcpMs": 30036,
+  "kb": 32733
+ },
+ {
+  "page": "/company/insights/eu-ets-2026",
+  "version": "B",
+  "loadMs": 1261,
+  "lcpMs": 1352,
+  "kb": 886
+ },
+ {
+  "page": "/company/contact",
+  "version": "A",
+  "loadMs": 30067,
+  "lcpMs": 384,
+  "kb": 32733
+ },
+ {
+  "page": "/company/contact",
+  "version": "B",
+  "loadMs": 1171,
+  "lcpMs": 604,
+  "kb": 763
+ }
+]

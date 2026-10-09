@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="neuraldrift">
+  <title>neuraldrift</title>
+  <!-- Rounded square background for app icon contexts -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#0A1628"/>
+
+  <!-- Simplified drift wave + node -->
+  <g transform="translate(8, 18)">
+    <path d="M 2 18
+             C 8 18, 12 4, 20 4
+             C 28 4, 32 18, 40 18"
+          fill="none"
+          stroke="#42C2D9"
+          stroke-width="5"
+          stroke-linecap="round"/>
+    <circle cx="42" cy="18" r="6" fill="#42C2D9"/>
+    <circle cx="42" cy="18" r="2.5" fill="#0A1628"/>
+  </g>
+</svg>
