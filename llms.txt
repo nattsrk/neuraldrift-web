@@ -1,0 +1,79 @@
+# Neural Drift
+
+> Neural Drift is a maritime software company. Its product GE6 is a voyage-intelligence engine that plans voyages, keeps watch at sea and analyses performance after arrival.
+
+Neural Drift is the brand of NEURALDRIFT PRIVATE LIMITED (CIN U62099TN2026PTC198695), Chennai, India. The official website is https://neuraldrifts.com. neuraldrift.com is not operated by Neural Drift.
+
+## Company
+- [Information for AI assistants](https://neuraldrifts.com/ai-instructions.md): official facts, naming rules and key facts
+- [Who we are](https://neuraldrifts.com/company/about/): the company
+
+## Product
+- [The GE6° engine](https://neuraldrifts.com/ge6/): the engine and its three services
+- [What is GE6?](https://neuraldrifts.com/company/contact/#what-is-ge6): GE6 is Neural Drift's voyage-intelligence engine.
+- [GE6 NeuralTrack™](https://neuraldrifts.com/company/contact/#voyage-planner): NeuralTrack™ compares route options before departure and recommends a course.
+- [NeuralTrack™ page](https://neuraldrifts.com/ge6/voyage-optimization/)
+- [GE6 NeuralWatch™](https://neuraldrifts.com/company/contact/#live-watchkeeper): NeuralWatch™ keeps watch on a voyage while the ship is at sea.
+- [NeuralWatch™ page](https://neuraldrifts.com/ge6/live-watchkeeper/)
+- [GE6 NeuralTrace™](https://neuraldrifts.com/company/contact/#voyage-analysis): NeuralTrace™ measures how the ship actually performed once the voyage is complete.
+- [NeuralTrace™ page](https://neuraldrifts.com/ge6/voyage-analysis/)
+
+## FAQ
+- [Frequently asked questions](https://neuraldrifts.com/company/contact/#faq): answers about Neural Drift, GE6, voyage planning, vessel performance, regulations and maritime terms
+- [About Neural Drift](https://neuraldrifts.com/company/contact/#company)
+- [GE6 and its services](https://neuraldrifts.com/company/contact/#ge6)
+- [Voyage planning and fuel](https://neuraldrifts.com/company/contact/#voyage)
+- [Vessel performance and fouling](https://neuraldrifts.com/company/contact/#performance)
+- [Regulations and compliance](https://neuraldrifts.com/company/contact/#regulations)
+- [Data and access](https://neuraldrifts.com/company/contact/#data)
+- [How GE6 compares](https://neuraldrifts.com/company/contact/#compare)
+- [Maritime terms explained](https://neuraldrifts.com/company/contact/#glossary)
+
+## Regulations
+- [What is the Carbon Intensity Indicator (CII)?](https://neuraldrifts.com/company/contact/#cii)
+- [How does GE6 help with CII?](https://neuraldrifts.com/company/contact/#cii-ge6)
+- [What is EEXI?](https://neuraldrifts.com/company/contact/#eexi)
+- [What is the IMO Data Collection System (DCS)?](https://neuraldrifts.com/company/contact/#imo-dcs)
+- [How does the EU Emissions Trading System apply to shipping?](https://neuraldrifts.com/company/contact/#eu-ets)
+- [What is FuelEU Maritime?](https://neuraldrifts.com/company/contact/#fueleu)
+- [Does GE6 support IMO DCS, EU ETS and FuelEU Maritime reporting?](https://neuraldrifts.com/company/contact/#compliance-ge6)
+- [What is the global sulphur cap?](https://neuraldrifts.com/company/contact/#sulphur-cap)
+- [What is port state control (PSC)?](https://neuraldrifts.com/company/contact/#psc)
+- [Are there rules on biofouling?](https://neuraldrifts.com/company/contact/#biofouling-rules)
+
+## Glossary
+- [Shaft power limitation (ShaPoLi)](https://neuraldrifts.com/company/contact/#shapoli): A system that limits the maximum shaft power a ship's propulsion can deliver, usually fitted to meet EEXI.
+- [Engine power limitation (EPL)](https://neuraldrifts.com/company/contact/#epl): A limit on the main engine's maximum power output, used to meet EEXI.
+- [Energy-saving device (ESD)](https://neuraldrifts.com/company/contact/#esd): Hardware fitted to the hull, propeller or rudder to reduce the power needed for a given speed, such as pre-swirl stators, ducts ahead of the propeller, propeller boss cap fins, rudder bulbs and air lubrication systems.
+- [Biofouling](https://neuraldrifts.com/company/contact/#biofouling): The build-up of aquatic organisms on a ship's submerged surfaces, from slime to weed, barnacles and tubeworms.
+- [Frictional resistance](https://neuraldrifts.com/company/contact/#frictional-resistance): The part of a ship's resistance caused by water flowing along the wetted hull.
+- [Cavitation](https://neuraldrifts.com/company/contact/#cavitation): The formation and collapse of vapour bubbles where water pressure drops below its vapour pressure, usually on propeller blades.
+- [Apparent slip](https://neuraldrifts.com/company/contact/#apparent-slip): The difference between the distance a propeller would advance in one revolution (its pitch) and the distance the ship actually travels, as a percentage.
+- [Specific fuel oil consumption (SFOC)](https://neuraldrifts.com/company/contact/#sfoc): The fuel an engine burns per unit of power produced, in grams per kilowatt-hour (g/kWh).
+- [Noon report](https://neuraldrifts.com/company/contact/#noon-report): The daily report a ship sends to its office, usually at local noon, recording position, distance, speed, fuel consumption, remaining fuel, weather and engine data for the past 24 hours.
+- [Bunker delivery note (BDN)](https://neuraldrifts.com/company/contact/#bdn): The document a fuel supplier gives a ship for each bunker delivery, stating the fuel grade, quantity, density and sulphur content.
+- [Very low sulphur fuel oil (VLSFO)](https://neuraldrifts.com/company/contact/#vlsfo): Marine fuel with a sulphur content of no more than 0.50%, the main fuel burned outside emission control areas since 2020.
+- [Low sulphur marine gas oil (LSMGO)](https://neuraldrifts.com/company/contact/#lsmgo): Distillate marine fuel with a sulphur content of no more than 0.10%, burned inside sulphur emission control areas.
+- [High sulphur fuel oil (HSFO)](https://neuraldrifts.com/company/contact/#hsfo): Residual fuel above 0.50% sulphur.
+- [Exhaust gas cleaning system (EGCS, scrubber)](https://neuraldrifts.com/company/contact/#egcs): Equipment that removes sulphur oxides from engine exhaust so a ship can meet sulphur limits while burning higher-sulphur fuel.
+- [Ballast water treatment system (BWTS)](https://neuraldrifts.com/company/contact/#bwts): Equipment that treats ballast water to remove or kill organisms before discharge, as required by the IMO Ballast Water Management Convention.
+- [Beaufort scale](https://neuraldrifts.com/company/contact/#beaufort): A 0-to-12 scale of wind force based on observed wind speed and sea conditions, used in logbooks, noon reports and charter party weather clauses.
+- [Douglas sea scale](https://neuraldrifts.com/company/contact/#douglas): A 0-to-9 scale describing the state of the sea from calm to phenomenal, often paired with the Beaufort scale in charter party good-weather definitions.
+- [Passage planning](https://neuraldrifts.com/company/contact/#passage-planning): The process, required by SOLAS Chapter V Regulation 34 and guided by the IMO Guidelines for Voyage Planning (resolution A.893(21)), of planning a voyage berth to berth in four stages: appraisal, planning, execution and monitoring.
+- [IMO Standard Marine Communication Phrases (SMCP)](https://neuraldrifts.com/company/contact/#smcp): A standard set of English phrases adopted by IMO resolution A.918(22) in 2001 for ship-to-shore, ship-to-ship and on-board communication, to avoid misunderstanding where crews and shore staff speak different first languages.
+- [Bridge resource management (BRM)](https://neuraldrifts.com/company/contact/#brm): The effective use of all resources on the bridge (people, equipment and information) to navigate safely.
+- [Electronic Chart Display and Information System (ECDIS)](https://neuraldrifts.com/company/contact/#ecdis): The approved electronic navigation chart system that SOLAS Chapter V requires on most ships trading internationally, phased in between 2012 and 2018.
+- [RTZ route file](https://neuraldrifts.com/company/contact/#rtz): The route exchange format defined in IEC 61174 for moving routes between ECDIS and other systems, written in XML.
+- [Automatic Identification System (AIS)](https://neuraldrifts.com/company/contact/#ais): A transponder system that broadcasts a ship's identity, position, course and speed.
+- [Under keel clearance (UKC)](https://neuraldrifts.com/company/contact/#ukc): The depth of water between the lowest point of a ship's keel and the seabed.
+- [Charter party (C/P)](https://neuraldrifts.com/company/contact/#charter-party): The contract between a shipowner and a charterer.
+- [Ship Energy Efficiency Management Plan (SEEMP)](https://neuraldrifts.com/company/contact/#seemp): The plan required by MARPOL Annex VI for managing a ship's energy efficiency; Part III holds the CII implementation plan and any corrective actions.
+
+## Contact
+Email: fleet@neuraldrifts.com · WhatsApp: +91 73975 20405 · LinkedIn: https://www.linkedin.com/company/143972936
+
+## Optional
+- [Full text](https://neuraldrifts.com/llms-full.txt)
+- [AI instructions (markdown)](https://neuraldrifts.com/ai-instructions.md)
+
+Last updated: 11 October 2026
