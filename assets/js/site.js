@@ -256,6 +256,8 @@
       if (!frame || e.source !== frame.contentWindow) return;
       var d = e.data;
       if (d && d.nd === 'ge6-ready') { if (frame.__onReady) frame.__onReady(); return; }
+      // Back from the GE6 engine: to the page the visitor came from on this site, otherwise home.
+      if (d && d.nd === 'ge6-back') { var ref = D.referrer || ''; if (ref.indexOf(W.location.origin) === 0 && W.history.length > 1) W.history.back(); else W.location.href = toPath('#/'); return; }
       if (!d || d.nd !== 'ge6-link' || typeof d.to !== 'string') return;
       if (d.to.indexOf('#/') === 0) W.location.href = toPath(d.to);
       else if (/^mailto:/i.test(d.to)) W.location.href = d.to;

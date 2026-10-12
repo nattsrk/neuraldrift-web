@@ -54,3 +54,36 @@
     navigator.permissions.query({ name: 'geolocation' }).then(function (r) { if (r.state === 'granted') ask(); }).catch(function () {});
   }
 })();
+
+/* Neural Drift · v02 · Scroll button on every page: a down arrow while there is more to read, which turns into
+   "back to top" at the end of the page. Hidden on pages that fit on one screen. */
+(function () {
+  'use strict';
+  var D = document, W = window;
+  var calm = W.matchMedia && W.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var b = D.createElement('button');
+  b.type = 'button'; b.className = 'nd-scroll'; b.hidden = true;
+  b.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  D.body.appendChild(b);
+  var up = false, ticking = false;
+  function update() {
+    ticking = false;
+    var h = D.documentElement.scrollHeight, y = W.scrollY || W.pageYOffset, v = W.innerHeight;
+    b.hidden = h <= v + 40;
+    up = h - (y + v) < 80;
+    b.classList.toggle('is-up', up);
+    b.classList.toggle('is-start', y < 40);
+    b.setAttribute('aria-label', up ? 'Back to top' : 'Scroll down');
+    b.title = up ? 'Back to top' : 'Scroll down';
+  }
+  function soon() { if (!ticking) { ticking = true; W.requestAnimationFrame(update); } }
+  b.addEventListener('click', function () {
+    var how = calm ? 'auto' : 'smooth';
+    if (up) W.scrollTo({ top: 0, behavior: how });
+    else W.scrollBy({ top: Math.round(W.innerHeight * 0.85), behavior: how });
+  });
+  W.addEventListener('scroll', soon, { passive: true });
+  W.addEventListener('resize', soon);
+  W.addEventListener('load', soon);
+  update();
+})();
