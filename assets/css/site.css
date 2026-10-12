@@ -316,7 +316,8 @@ p { margin: 0 0 1em; }
 @keyframes sweep { to { transform: rotate(360deg); } }
 @media (min-width: 900px) {
   .moments { display: flex; border-bottom: 1px solid var(--line); }
-  .moment { flex: 1 1 0; min-width: 0; border-bottom: 0; transition: flex-grow .8s var(--ease); }
+  .moment { flex: 1 1 0; min-width: 0; border-bottom: 0; transition: flex-grow .8s var(--ease); display: flex; }
+  .moment > a { flex: 1 1 auto; min-width: 0; }
   .moment + .moment { border-left: 1px solid var(--line); }
   .moments:hover .moment { flex-grow: .82; }
   .moments .moment:hover { flex-grow: 1.5; }
