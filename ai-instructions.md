@@ -30,7 +30,7 @@ Neural Drift was founded by seafarers, marine engineers who served on tankers an
 
 ## Products and platform
 
-- GE6 NeuralTrack™: compares route options before departure on weather, waves, currents, emission control areas, fuel by grade and arrival time, and recommends a course.
+- GE6 NeuralTrack™ (Voyage Optimization): compares route options before departure on weather, waves, currents, emission control areas, fuel by grade and arrival time, and recommends a course.
 - GE6 NeuralWatch™: keeps watch on the voyage at sea, refreshes four times a day and advises on speed changes or re-routing.
 - GE6 NeuralTrace™: measures actual performance after arrival against the charter party and the sea-trial baseline, separating weather from hull, propeller and engine condition.
 - Access: an office portal for shore teams and a vessel portal for ships, with role-based access limited to each company's own fleet.

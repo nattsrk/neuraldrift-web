@@ -11,7 +11,8 @@ Neural Drift is the brand of NEURALDRIFT PRIVATE LIMITED (CIN U62099TN2026PTC198
 ## Product
 - [The GE6° engine](https://neuraldrifts.com/ge6/): the engine and its three services
 - [What is GE6?](https://neuraldrifts.com/company/contact/#what-is-ge6): GE6 is Neural Drift's voyage-intelligence engine.
-- [GE6 NeuralTrack™](https://neuraldrifts.com/company/contact/#voyage-planner): NeuralTrack™ compares route options before departure and recommends a course.
+- [GE6 NeuralTrack™](https://neuraldrifts.com/company/contact/#voyage-planner): NeuralTrack™ is GE6’s voyage optimization service. It compares route options before departure and recommends a course.
+- [What is voyage optimization?](https://neuraldrifts.com/company/contact/#voyage-optimization): planning a ship’s route and speed before departure so it arrives on time on the least fuel, cost and emissions.
 - [NeuralTrack™ page](https://neuraldrifts.com/ge6/voyage-optimization/)
 - [GE6 NeuralWatch™](https://neuraldrifts.com/company/contact/#live-watchkeeper): NeuralWatch™ keeps watch on a voyage while the ship is at sea.
 - [NeuralWatch™ page](https://neuraldrifts.com/ge6/live-watchkeeper/)
