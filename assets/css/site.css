@@ -991,3 +991,9 @@ html.is-ge6 body > :not(.ge6-host) { visibility: hidden; }
 .nd-faq .qa-a a { color: var(--teal); }
 .nd-faq [id] { scroll-margin-top: calc(var(--hh) + 96px); }
 @media (min-width: 1100px) { .nd-faq-l { position: sticky; top: calc(var(--hh) + 96px); align-self: start; } }
+
+/* Home hero position: looks like the text around it; a tap asks for the visitor's position */
+.nd-pos { font: inherit; letter-spacing: inherit; color: inherit; background: none; border: 0; padding: 0; margin: 0; cursor: pointer; text-decoration: underline dotted transparent; text-underline-offset: 4px; transition: text-decoration-color .2s, color .2s; }
+.nd-pos:hover, .nd-pos:focus-visible { text-decoration-color: currentColor; color: rgba(255,255,255,.8); }
+.nd-pos:focus-visible { outline: 1px solid rgba(255,255,255,.6); outline-offset: 4px; border-radius: 2px; }
+.nd-pos[data-live] { color: rgba(255,255,255,.75); cursor: default; }

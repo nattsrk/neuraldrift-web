@@ -30,3 +30,27 @@
   setInterval(paint, 1000);
   setInterval(sync, 600000);
 })();
+
+/* Neural Drift · v02 · Home hero position: the visitor's own latitude and longitude, only with their permission.
+   Shows the Chennai office until then. If the visitor has already allowed location for this site it fills in on
+   arrival; otherwise a tap on the coordinates asks once. The position stays in the browser; nothing is sent anywhere. */
+(function () {
+  'use strict';
+  var els = document.querySelectorAll('[data-nd-pos]');
+  if (!els.length || !navigator.geolocation) return;
+  function pad(n, w) { n = String(n); while (n.length < w) n = '0' + n; return n; }
+  function dm(v, pos, neg, w) {
+    var a = Math.abs(v), d = Math.floor(a), m = Math.round((a - d) * 60);
+    if (m === 60) { d += 1; m = 0; }
+    return pad(d, w) + '°' + pad(m, 2) + '′ ' + (v < 0 ? neg : pos);
+  }
+  function show(p) {
+    var t = dm(p.coords.latitude, 'N', 'S', 2) + ' ' + dm(p.coords.longitude, 'E', 'W', 3);
+    for (var i = 0; i < els.length; i++) { els[i].textContent = t; els[i].title = 'Your position'; els[i].setAttribute('data-live', ''); }
+  }
+  function ask() { navigator.geolocation.getCurrentPosition(show, function () { /* refused or unavailable: Chennai stays */ }, { maximumAge: 600000, timeout: 15000 }); }
+  for (var i = 0; i < els.length; i++) els[i].addEventListener('click', ask);
+  if (navigator.permissions && navigator.permissions.query) {
+    navigator.permissions.query({ name: 'geolocation' }).then(function (r) { if (r.state === 'granted') ask(); }).catch(function () {});
+  }
+})();
