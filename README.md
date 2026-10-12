@@ -8,4 +8,4 @@ Vicky's one-file design (9 Oct 2026), converted unchanged into a cloud-ready mul
 - Parity report: `_src/parity/report/PARITY-REPORT.html` (92/92 pages match; max 0.17 % pixel difference)
 - Test copy with passcode: `python3 _src/preview.py <base> <passcode> [original.html]`
 
-Branch `v02`; `main` still serves the live site.
+Working branch `v02-design`; `main` publishes neuraldrifts.com (live since 12 Oct 2026). Rollback point: tag `live-before-v02`.

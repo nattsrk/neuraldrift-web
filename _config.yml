@@ -1,0 +1,4 @@
+# GitHub Pages: publish the site only. Folders starting with "_" (the build tools in _src) are already left out.
+exclude:
+  - README.md
+  - .gitignore
