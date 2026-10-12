@@ -1,61 +1,11 @@
-# neuraldrift-web
+# neuraldrifts.com — website v02
 
-Public marketing site for **Neural Drift** — <https://neuraldrifts.com>
+Vicky's one-file design (9 Oct 2026), converted unchanged into a cloud-ready multi-page static site.
 
-Static HTML. No build step, no framework, no dependencies, no trackers.
-Edit a file, commit, push — GitHub Pages redeploys within a minute.
+- Rebuild from a new one-file version: `python3 _src/convert.py <Neural_Drift_Website.html>`
+- Preview locally: `python3 _src/serve.py 8831` → http://localhost:8831
+- Parity tests (needs Chrome): `cd _src/parity && npm i && node parity.js <out> 1440,1024,768,390 && python3 compare.py <out>`; behaviour: `node behaviour.js`; load time: `node perf.js`
+- Parity report: `_src/parity/report/PARITY-REPORT.html` (92/92 pages match; max 0.17 % pixel difference)
+- Test copy with passcode: `python3 _src/preview.py <base> <passcode> [original.html]`
 
-## Layout
-
-```
-index.html        Home
-services.html     Platform & Services
-about.html        About
-contact.html      Contact
-404.html          Not found
-assets/styles.css Shared stylesheet
-assets/site.js    Mobile nav + contact-form mailto composer
-CNAME             Custom domain binding — do not delete
-sitemap.xml       Update lastmod when content changes materially
-robots.txt        Points crawlers at the sitemap
-.nojekyll         Serve files verbatim, skip Jekyll processing
-```
-
-## This repo is NOT the application
-
-The Neural Drift platform lives in a separate **private** repository.
-Nothing here touches customer data, credentials or the application source.
-Keep it that way — this repo is public.
-
-## Deploying
-
-Push to `main`. GitHub Pages serves from the branch root.
-
-DNS lives at GoDaddy:
-
-| Type | Name | Value |
-|---|---|---|
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
-| CNAME | `www` | `<owner>.github.io` |
-
-## Content rules
-
-The site follows the product's own standard — **a dash, never a guess**:
-
-1. Capabilities are labelled **Live**, **Rolling out** or **Roadmap**.
-   Nothing is marked Live until it is.
-2. No traction figures (vessel counts, customer counts) unless they are
-   currently true and defensible.
-3. Interface panels are marked `ILLUSTRATIVE` and must not be presented
-   as results from a named vessel.
-
-## Known follow-ups
-
-- [ ] `fleet@neuraldrifts.com` must exist before launch — add the domain
-      alias in Google Workspace, or contact mail bounces.
-- [ ] Add a real `og:image` (1200×630) and reference it in each page head.
-- [ ] Self-host the Google Fonts to avoid third-party IP logging (GDPR).
-- [ ] Confirm the legal entity line in the footer with the company.
+Branch `v02`; `main` still serves the live site.

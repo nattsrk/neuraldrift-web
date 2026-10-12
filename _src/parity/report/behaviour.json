@@ -1,0 +1,90 @@
+{
+ "films-A-home": {
+  "films": {
+   "cruising": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 4.85
+   },
+   "midnight": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 3.06
+   }
+  },
+  "errors": []
+ },
+ "films-B-home": {
+  "films": {
+   "cruising": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 5.84
+   },
+   "midnight": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 3.44
+   }
+  },
+  "errors": []
+ },
+ "films-A-vo": {
+  "films": {
+   "anchorage": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 2.7
+   }
+  },
+  "errors": []
+ },
+ "films-B-vo": {
+  "films": {
+   "anchorage": {
+    "state": "playing",
+    "rendition": "av1-720",
+    "t": 3.38
+   }
+  },
+  "errors": []
+ },
+ "homeStory": [
+  0,
+  1,
+  2
+ ],
+ "megaMenus": {
+  "ge6": true,
+  "serve": true,
+  "company": true
+ },
+ "currentMark": {
+  "trigger": "ge6",
+  "items": [
+   "/ge6/live-watchkeeper/",
+   "/ge6/live-watchkeeper/",
+   null,
+   "/ge6/live-watchkeeper/",
+   "/ge6/live-watchkeeper/"
+  ]
+ },
+ "phoneSheet": {
+  "open": true,
+  "links": 16
+ },
+ "ge6Frame": {
+  "framed": true,
+  "title": "GE6° — Voyage intelligence by Neural Drift",
+  "linkBackTo": "/ge6/voyage-optimization/",
+  "errors": []
+ },
+ "oldHashRedirect": "/company/insights/eu-ets-2026/",
+ "links": {
+  "pagesChecked": 26,
+  "uniqueChecked": 32,
+  "mediaChecked": 40,
+  "broken": [],
+  "jsErrors": {}
+ }
+}
